@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero_section{
+  font-size: 50px;
+  width: 100%;
+  width: 100%;
+  width: 100%;
+  width: 100%;
+  width: 100%;
+}
+
+
+/* Responsiveness */
+/* large laptops and monitors */
+@media screen and (max-width:1200px) {
+}
+
+
+/* laptops */
+@media screen and (max-width:998px) { 
+}
+
+
+/* tablet */
+@media screen and (max-width:768px) {
+html{
+    font-size: 72.5%;
+}  
+}
+
+/* small device */
+@media screen and (max-width:576px) {
+    html{
+    font-size: 62.5%;
+} 
+}
